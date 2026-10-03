@@ -1,0 +1,47 @@
+[
+  {
+    "id": "EMP-001",
+    "name": "Deepu Kumar",
+    "dateOfBirth": "15 May 2000",
+    "gender": "Male",
+    "phone": "9876543210",
+    "email": "deepu.kumar@company.com",
+
+    "contact": {
+      "address": "West Champaran",
+      "city": "Bettiah",
+      "state": "Bihar",
+      "country": "India"
+    },
+
+    "professional": {
+      "designation": "Web Developer",
+      "department": "IT",
+      "joiningDate": "20 July 2026",
+      "employmentType": "Intern"
+    },
+
+    "education": {
+      "qualification": "MCA",
+      "university": "Dev Bhoomi Uttarakhand University",
+      "course": "Master of Computer Applications",
+      "passingYear": "2025",
+      "percentage": "75%"
+    },
+
+    "skills": [
+      "Java",
+      "JavaScript",
+      "TypeScript",
+      "React.js",
+      "Next.js",
+      "Spring Boot",
+      "Tailwind CSS",
+      "MongoDB",
+      "MySQL",
+      "Git",
+      "GitHub",
+      "REST API"
+    ]
+  }
+]
